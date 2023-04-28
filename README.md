@@ -1,11 +1,13 @@
 # Crosscode Mod to make the Ninja-Outfit permanent for Lea +extras
 This mod replaces all the non-DLC textures of Lea in her default outfit with her Ninja outfit intead. The extras are that I have taken some of the bits from the default outfit that I personally prefer and combined everything together. The biggest change is that Lea is not wearing the mask with the Ninja Outfit so all her expressions can be seen in full. You also may notice the boots and shoulder pads are not the DLC ones but the default outfit ones.
 
-Not all textures are 100% finished and "production-ready". Currently aprox. 90% of them are finalized however the remaining 10% have been replaced but still need finishing touches
-
-Preview:
+**Small Preview:**
 
 ![image](https://user-images.githubusercontent.com/30007328/235225051-d66be66c-cc93-4a81-b48b-b2ad387bdfa3.png)
+
+# Work-in-Progress #
+
+Not all textures are 100% finished and "production-ready". Currently aprox. 90% of them are finalized however the remaining 10% have been replaced but still need finishing touches
 
 Major requirements to be able to publish a" v1.0" are:-
 - Parralax textures for Lea shaded fully and animated accurately 
