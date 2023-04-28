@@ -11,7 +11,7 @@ Major requirements to be able to publish a" v1.0" are:-
 
 Other than that there are some minor tweaks here and there I would like to come back around to as well as need to do a full proper test of the outfit in-game to ensure everything matches up properly. Also I am an absolute beginner at any form of art, so do not expect fast updates, I am still learning and figuring a lot out and my progress whilst steady... is pretty slow.
 
-Requirements: #
+# Requirements: #
 CCLoader - https://github.com/CCDirectLink/CCLoader
 
 Ninja-Outfit DLC - https://store.steampowered.com/app/960310/CrossCode__Ninja_Skin
