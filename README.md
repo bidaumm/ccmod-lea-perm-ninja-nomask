@@ -1,4 +1,4 @@
-# Crosscode Mod to make the Ninja-Outfit permanent for Lea +extras
+# CrossCode Mod to make the Ninja-Outfit permanent for Lea +extras
 This mod replaces all the non-DLC textures of Lea in her default outfit with her Ninja outfit intead. The extras are that I have taken some of the bits from the default outfit that I personally prefer and combined everything together. The biggest change is that Lea is not wearing the mask with the Ninja Outfit so all her expressions can be seen in full. You also may notice the boots and shoulder pads are not the DLC ones but the default outfit ones.
 
 **Small Preview:**
@@ -29,6 +29,6 @@ The User Fauxless has a similar mod at https://github.com/fauxless/crosscode-nin
 
 Having his existing work on making the ninja outfit permanent was a huge boon to be able to use something for reference
 
-I also received help  from users in the CrossCode modding discord server itself (and found fauxless' mod through the server).
+I also received help from users in the CrossCode modding discord server itself (and found fauxless' mod through the server).
 
 The invite link to join the server is:- https://discord.gg/3Xw69VjXfW
