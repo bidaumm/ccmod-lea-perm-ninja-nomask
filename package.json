@@ -1,6 +1,6 @@
 {
-    "name": "bdm-lea-perm-ninja-nomask",
-    "version": "0.9.0"
+    "name": "bdm-lea-is-ninja",
+    "version": "0.9.1"
     "ccmodDependencies": {
         "ninja-skin": ">=1.4.0",
         "ccloader": "^2.21.0",
