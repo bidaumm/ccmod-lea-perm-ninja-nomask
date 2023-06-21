@@ -3,32 +3,14 @@ This mod replaces all the non-DLC textures of Lea in her default outfit with her
 
 **Small Preview:**
 
-![image](https://user-images.githubusercontent.com/30007328/235225051-d66be66c-cc93-4a81-b48b-b2ad387bdfa3.png)
+![image](https://github.com/bidaumm/ccmod-lea-is-ninja/assets/30007328/1afdc6e8-04ee-4bd0-91ba-9a68a9d769bd)
+
 
 # Work-in-Progress #
 
-Not all textures are 100% finished and "production-ready". Currently aprox. 90% of them are finalized however the remaining 10% have been replaced but still need finishing touches
-
-Major requirements to be able to publish a" v1.0" are:-
-- Parralax textures for Lea shaded fully and animated accurately 
-(currently only the hair is animated on the title screen as its from default outfit, also the shading is less than 10% done)
-- All spritesheet textures confirmed to match pose from original spritesheets, correctly colored and demasked
-(My goal is to only change the outfit for all the sprites not the actua style or poses themselves.)
-
-Other than that there are some minor tweaks here and there I would like to come back around to as well as need to do a full proper test of the outfit in-game to ensure everything matches up properly. Also I am an absolute beginner at any form of art, so do not expect fast updates, I am still learning and figuring a lot out and my progress whilst steady... is pretty slow.
+This is still a WIP that I'm working on at a slow burn. The current "release" is probably not up to date with my current status of work, but I will commit work that I've finished semi-regularly  
 
 # Requirements: #
 CCLoader - https://github.com/CCDirectLink/CCLoader
 
 Ninja-Outfit DLC - https://store.steampowered.com/app/960310/CrossCode__Ninja_Skin
-
-# Honorable Mentions #
-Whilst all assets in this mod are ones that I have worked on, I cannot claim this is an original idea.
-
-The User Fauxless has a similar mod at https://github.com/fauxless/crosscode-ninja-skin-rework
-
-Having his existing work on making the ninja outfit permanent was a huge boon to be able to use something for reference
-
-I also received help from users in the CrossCode modding discord server itself (and found fauxless' mod through the server).
-
-The invite link to join the server is:- https://discord.gg/3Xw69VjXfW
