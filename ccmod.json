@@ -1,0 +1,13 @@
+{
+    "id": "bdm-lea-is-ninja",
+    "version": "0.9.8",
+    "title": "Better ninja skin",
+    "description": "Adds the ninja skin to lea expressions, removes the face mask, and more!",
+    "repository": "https://github.com/bidaumm/ccmod-lea-is-ninja",
+    "tags": ["cosmetic"],
+    "authors": ["bidaumm"],
+    "dependencies": {
+        "ninja-skin": ">=1.4.0",
+        "ccloader": "^2.21.0"
+    }
+}
