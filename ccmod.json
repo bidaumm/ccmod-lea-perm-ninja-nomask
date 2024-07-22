@@ -6,6 +6,9 @@
     "repository": "https://github.com/bidaumm/ccmod-lea-is-ninja",
     "tags": ["cosmetic"],
     "authors": ["bidaumm"],
+    "icons": {
+        "24": "icon.png"
+    },
     "dependencies": {
         "ninja-skin": ">=1.4.0",
         "ccloader": "^2.21.0"
